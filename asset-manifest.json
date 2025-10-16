@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HrishB16.com.github.io/Blogger-Internship-project/static/css/main.073c9b0a.css",
+    "main.js": "/HrishB16.com.github.io/Blogger-Internship-project/static/js/main.b7476dd9.js",
+    "static/js/787.cda612ba.chunk.js": "/HrishB16.com.github.io/Blogger-Internship-project/static/js/787.cda612ba.chunk.js",
+    "static/media/logo.svg": "/HrishB16.com.github.io/Blogger-Internship-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/HrishB16.com.github.io/Blogger-Internship-project/index.html",
+    "main.073c9b0a.css.map": "/HrishB16.com.github.io/Blogger-Internship-project/static/css/main.073c9b0a.css.map",
+    "main.b7476dd9.js.map": "/HrishB16.com.github.io/Blogger-Internship-project/static/js/main.b7476dd9.js.map",
+    "787.cda612ba.chunk.js.map": "/HrishB16.com.github.io/Blogger-Internship-project/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b7476dd9.js"
+  ]
+}
